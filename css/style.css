@@ -1,0 +1,318 @@
+.jumbotron p{
+   font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron img{
+    width: 200px;
+    border: 3px solid white;
+    
+}
+.jumbotron h1{
+   color: white;
+   font-family: 'Quicksand', sans-serif;
+}
+hr{
+    width: 250px;
+    border-top: 5px solid grey;
+
+ }
+ .tentangsaya{
+   font-family: 'Quicksand', sans-serif;
+font-weight: 800;
+
+ }
+ .skill{
+   font-weight: 500;
+ }
+
+ .porfolio{
+    background-color:rgb(13, 148, 136);
+    
+ }
+
+ .section{
+   min-height: 600px;
+ }
+
+ .kustumtex{
+   font-size: large;
+   font-weight: bold;
+   font-family: 'Quicksand', sans-serif;
+
+ }
+ .porfolio h2{
+   font-family: 'Quicksand', sans-serif;
+   color: white;
+ }
+ 
+.footer{
+   font-family: 'Quicksand', sans-serif;
+   background: #777;
+   font: lighter;
+}
+.footer p{
+   color: white;
+}
+
+.progress-bar{
+font-family: 'Quicksand', sans-serif;
+background-color:rgb(13, 148, 136);
+font-size: 10px;
+}
+
+.bt{
+   /* background-color:rgb(13, 148, 136); */
+   border-radius:0.5rem;
+   font-family: 'Quicksand', sans-serif;
+   color: white;
+   padding-top:3px;
+   padding-right:3px;
+      padding-left:3px;
+   padding-bottom:3px;
+	/* background-image: -webkit-gradient(linear,left bottom,left top,from(#f19a1a),to(#ffc73c)); */
+	background-image: linear-gradient(0deg,#f19a1a,#ffc73c);
+}
+.bt2{
+   /* background-color:rgb(13, 148, 136); */
+   border-radius:0.5rem;
+   font-family: 'Quicksand', sans-serif;
+   color: white;
+   padding-top:3px;
+   padding-right:3px;
+      padding-left:3px;
+   padding-bottom:3px;
+	/* background-image: -webkit-gradient(linear,left bottom,left top,from(#f19a1a),to(#ffc73c)); */
+   background-image: linear-gradient(180deg,#f44881,#ec454f);
+}
+.bt3{
+   /* background-color:rgb(13, 148, 136); */
+   border-radius:0.5rem;
+   font-family: 'Quicksand', sans-serif;
+   color: white;
+   padding-top:3px;
+   padding-right:3px;
+      padding-left:3px;
+   padding-bottom:3px;
+	/* background-image: -webkit-gradient(linear,left bottom,left top,from(#f19a1a),to(#ffc73c)); */
+   background-image: linear-gradient(180deg,#38ef7d,#11998e);
+}
+
+/* button media sosial */
+.main {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-orient: vertical;
+   -webkit-box-direction: normal;
+       -ms-flex-direction: column;
+           flex-direction: column;
+   gap: 0.5em;
+  
+ }
+
+ .container{
+   text-align: center;
+ }
+
+ .box{
+   display: inline-block;
+ } 
+ 
+ .up {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-orient: horizontal;
+   -webkit-box-direction: normal;
+       -ms-flex-direction: row;
+           flex-direction: row;
+   gap: 0.5em;
+ }
+ 
+ .down {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-orient: horizontal;
+   -webkit-box-direction: normal;
+       -ms-flex-direction: row;
+           flex-direction: row;
+   gap: 0.5em;
+ }
+ 
+ .card1 {
+   width: 90px;
+   height: 90px;
+   outline: none;
+   border: none;
+   background: white;
+   border-radius: 90px 5px 5px 5px;
+   -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+           box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+   -webkit-transition: .2s ease-in-out;
+   transition: .2s ease-in-out;
+ }
+ 
+ .instagram {
+   margin-top: 1.5em;
+   margin-left: 1.2em;
+   fill: #cc39a4;
+ }
+  
+ .whatapp2 {
+  margin-right: 1.2em;
+  margin-top: 1.5em;
+ 
+  fill: #cc39a4;
+}
+ 
+ .card2 {
+   width: 90px;
+   height: 90px;
+   outline: none;
+   border: none;
+   background: white;
+   border-radius: 5px 90px 5px 5px;
+   -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+           box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+   -webkit-transition: .2s ease-in-out;
+   transition: .2s ease-in-out;
+ }
+ 
+
+ 
+ .card3 {
+   width: 90px;
+   height: 90px;
+   outline: none;
+   border: none;
+   background: white;
+   border-radius: 5px 5px 5px 90px;
+   -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+           box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+   -webkit-transition: .2s ease-in-out;
+   transition: .2s ease-in-out;
+ }
+
+ .blogkopi {
+  margin-bottom: 1.5em;
+  margin-right: 1.2em;
+ } 
+ 
+ .card4 {
+   width: 90px;
+   height: 90px;
+   outline: none;
+   border: none;
+   background: white;
+   border-radius: 5px 5px 90px 5px;
+   -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+           box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+   -webkit-transition: .2s ease-in-out;
+   transition: .2s ease-in-out;
+ }
+ 
+ .yt{
+  margin-bottom: 1.5em;
+  margin-left: 1.2em;
+ }
+ 
+ .card1:hover {
+   cursor: pointer;
+   scale: 1.1;
+   background-color: #cc39a4;
+ }
+ 
+ .card1:hover .instagram {
+   fill: white;
+ }
+ 
+ .card2:hover {
+   cursor: pointer;
+   scale: 1.1;
+   background-color: #42e447;
+ }
+ 
+ .card2:hover .whatapp {
+   fill: white;
+ }
+ 
+ .card3:hover {
+   cursor: pointer;
+   scale: 1.1;
+   background-color: black;
+ }
+ 
+ .card3:hover .blogkopi {
+   fill: white;
+ }
+ 
+ .card4:hover {
+   cursor: pointer;
+   scale: 1.1;
+   background-color: #8c9eff;
+ }
+ 
+ .card4:hover .yt {
+   fill: white;
+ }
+
+ /* 
+ 
+*/
+.flip-card {
+   margin-top: 30px;
+   background-color: transparent;
+   width: 200px;
+   height: 200px;
+   perspective: 1000px;
+   font-family: sans-serif;
+ }
+ 
+ .title {
+   font-size: 1.5em;
+   font-weight: 900;
+   text-align: center;
+   margin: 0;
+
+ }
+ 
+ .flip-card-inner {
+   position: relative;
+   width: 100%;
+   height: 100%;
+   text-align: center;
+   transition: transform 0.8s;
+   transform-style: preserve-3d;
+ }
+ 
+ .flip-card:hover .flip-card-inner {
+   transform: rotateY(180deg);
+ }
+ 
+ .flip-card-front, .flip-card-back {
+   box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+   position: absolute;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   width: 100%;
+   height: 100%;
+   -webkit-backface-visibility: hidden;
+   backface-visibility: hidden;
+   border: 1px solid coral;
+   border-radius: 1rem;
+ }
+ 
+ .flip-card-front {
+   background: linear-gradient(120deg, bisque 60%, rgb(255, 231, 222) 88%,
+      rgb(235, 52, 11) 40%, rgba(237, 69, 8, 0.603) 48%);
+   color: coral 88%;
+ }
+ 
+ .flip-card-back {
+   background: linear-gradient(120deg, rgb(255, 174, 145) 30%, coral 88%,
+      bisque 40%, rgb(255, 185, 160) 78%);
+   color: white;
+   transform: rotateY(180deg);
+ }
